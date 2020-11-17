@@ -13,9 +13,9 @@
     text-decoration: none;
 }
 
-menu li{
-    color: seashell;
-    background-color: rgb(0, 0, 0);
+.menu li{
+    color: rgb(0, 0, 0);
+    background-color: rgba(158, 0, 105, 0.658);
     display: inline-block;
     margin: 0% auto;
     position: relative;
@@ -32,8 +32,8 @@ menu li{
 }
 
 .menu li:hover  {
-    color: #f0D;
-    background-color: rgba(97, 0, 0, 0.562);
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 204, 255, 0.562);
 }
 
 /* ==============================================
